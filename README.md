@@ -12,3 +12,4 @@ If you have any questions, please visit my website and contact me.
 
 # AWS
 - [Cloud Computing](AWS/Cloud_computing.md)
+- [Responsibility](AWS/shared_responsibility.md)
